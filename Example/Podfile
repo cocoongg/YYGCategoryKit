@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YYGCategoryKit_Example' do
+  pod 'YYGCategoryKit', :path => '../'
+
+  target 'YYGCategoryKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
