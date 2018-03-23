@@ -1,0 +1,22 @@
+{
+  "name": "YYGCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of YYGCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YYG/YYGCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YYG": "cocoongg@163.com"
+  },
+  "source": {
+    "git": "https://github.com/YYG/YYGCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYGCategoryKit/Classes/**/*"
+}
